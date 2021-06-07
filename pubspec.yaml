@@ -1,0 +1,59 @@
+name: mix_center
+
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+8
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.0
+  carousel_slider: ^3.0.0
+  shared_preferences:
+  provider:
+  cached_network_image: ^2.5.1
+  url_launcher: ^6.0.3
+  # firebase  services
+  firebase_core: ^1.0.2
+  firebase_messaging: ^9.1.0
+  intl:
+
+  # sweetalert: ^0.0.1  ///toast
+  #   image_picker: ^0.6.7+2
+
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_icon/appIcon.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/category/
+    - assets/app_icon/
+    - assets/my_icons/
+
+
+  # example:
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Bold.ttf
+        - asset: assets/fonts/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo-Black.ttf

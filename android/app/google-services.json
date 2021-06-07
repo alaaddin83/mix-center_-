@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034915395713",
+    "firebase_url": "https://mix-mobile-927b4.firebaseio.com",
+    "project_id": "mix-mobile-927b4",
+    "storage_bucket": "mix-mobile-927b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034915395713:android:a14477af1b7f78bd7ff580",
+        "android_client_info": {
+          "package_name": "com.alaaddinapps.mix_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034915395713-200r6qban0tu3tgl1skjsgbt248lbjj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwtF8Fs_Z76-6qn00iwZLyyZ2l_GohWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034915395713-200r6qban0tu3tgl1skjsgbt248lbjj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
